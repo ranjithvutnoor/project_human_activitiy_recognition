@@ -1,0 +1,1 @@
+# project_human_activitiy_recognition
